@@ -31,13 +31,13 @@ Projeto desenvolvido em **Python com Django** que simula uma plataforma de galer
 ## 📸 Imagens do Projeto
 
 ### 🔐 Página de Cadastro
-![Cadastro](./assets/screenshots/cadastro.png)
+![Cadastro](./cadastro.png)
 
 ### 🔐 Página de Login
-![Login](./assets/screenshots/login.png)
+![Login](./login.png)
 
 ### 🌌 Galeria Principal
-![Galeria](./assets/screenshots/galeria.png)
+![Galeria](./galeria.png)
 
 ---
 
